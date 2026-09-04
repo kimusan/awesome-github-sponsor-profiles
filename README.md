@@ -24,6 +24,7 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 ## I
 ## J
 ## K
+- [kimusan](https://github.com/sponsors/kimusan)
 - [kjaymiller](https://github.com/sponsors/kjaymiller)
 
 ## L
